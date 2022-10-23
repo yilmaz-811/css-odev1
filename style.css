@@ -1,0 +1,96 @@
+body {
+    background-color:aqua;
+}
+header{
+    text-align: center;
+}
+/* SAYFALAR ARASI GEÇİŞLER */
+
+.anasayfa {
+    background-color: #ff0000; /* Green */
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+.urunlerimiz {
+    background-color: #ff0000; /* Green */
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.hakkimizda{
+    background-color: #ff0000; /* Green */
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration:none;
+    display: inline-block;
+    font-size: 16px;
+}
+/* NAV BÖLÜMÜNDE BULUNAN YAZILAR */
+nav{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(69, 0, 69);
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+        color: brown;
+}
+/* NAV BÖLÜMÜNDE BULUNAN FOTOĞRAFLAR */
+div{
+    float:left;
+    padding-right: 14px;
+    text-align: center;
+}
+/* SECTİON BÖLÜMÜ  */
+h2{
+    text-align: center;
+    color: brown;
+}
+.tex-medium{
+    font-size: 20px;
+    text-align: justify;
+}
+h5{
+    font-size: large;
+    color: brown;
+}
+h4{
+    font-size: larger;
+    color:brown;
+}
+/* FOOTER BÖLÜMÜ */
+footer{
+    padding:10px 0;
+    line-height:normal;
+    background:fuchsia;
+    text-align:center;
+}
+/* product sayfasına aittir */
+.tex-renk{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(70, 0, 70);
+    text-align: center;
+}
+.baslık{
+    font-family:'Courier New', Courier, monospace;
+    color:brown;
+}
+/* about-us sayfasına aittir. */
+.son{
+    text-align: left;
+}
